@@ -3,9 +3,9 @@ Elon musk space x clone website
 
 #### follow me on twitter https://twitter.com/ArinzeMeshach
 
-####  follow me on facebook htpps://facebook.com/arinzemeshach
+####  follow me on facebook https://github.com/MeshachArinze
 
-#### follow me on linkedin htpps://linkedin.com/meshach-ekene
+#### follow me on linkedin https://linkedin.com/in/meshach-ekene
 
 #### star the repo 
 
